@@ -1,0 +1,9 @@
+docker-plugin
+docker-workflow
+git
+github
+kubernetes-cli
+pipeline-model-definition
+pipeline-stage-step
+workflow-aggregator
+sonar
